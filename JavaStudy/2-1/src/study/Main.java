@@ -18,7 +18,8 @@ public class Main {
 		// getName関数の呼び出しと出力
 		System.out.println(getName(firstName, lastName));
 		System.out.println();
-
+	
+		
 		int[] arr = { 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 };
 
 		// ③ arr 配列をループさせ、isOdd関数を使って配列の要素が奇数かどうかの判定を行いなさい。
@@ -34,7 +35,8 @@ public class Main {
 	// last_name と first_name を連結した値を返り値とする変数を定義しなさい。
 
 	public static String getName(String firstName, String lastName) {
-		return lastName + firstName;
+		String fullName = lastName + firstName;
+		return fullName;
 	}
 
 	// 奇数の判定を行う。
