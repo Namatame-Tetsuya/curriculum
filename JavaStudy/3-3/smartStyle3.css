@@ -55,8 +55,7 @@
             .box-a{
             position: relative;
             top: 55px;
-            /* bottom:5px; */
-            left: -5;
+            left: -5px;
             right: 0;
             }
             
@@ -64,7 +63,7 @@
             .box-b{
             position: relative;
             top: 65px;
-            left: -5;
+            left: -5px;
             right: 0;
             }
 

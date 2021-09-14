@@ -19,9 +19,6 @@ position: relative;
 }
 
 
-/* .main{
-  position: absolute;
-} */
 
 .boxs {
 background-color:#a9004b;
@@ -39,8 +36,7 @@ border: solid  10px #FFFFFF;
 .top-1 {
 width: 60px;
 height: 60px;  
-top: -10;
-bottom: 0;
+top: -10px;
 left: 40px;
 right: 50px;
 position: relative;
@@ -48,22 +44,6 @@ position: relative;
 
 }
 
-/* 
-.top-2 {
-position: relative;
-top:20px;
-
-
-
-}
-
-.top-3 {
-position: relative;
-top:20px;
-bottom:30px; */
-
-
-/* } */
 
 .main-left {
 width: 150px;
@@ -96,8 +76,7 @@ border:5px solid #FFFFFF ;
 .box-a{
 position: relative;
 top: 55px;
-/* bottom:5px; */
-left: -5;
+left: -5px;
 right: 0;
 }
 
@@ -105,15 +84,9 @@ right: 0;
 .box-b{
 position: relative;
 top: 65px;
-left: -5;
+left: -5px;
 right: 0;
 }
-
-/* .box-c{
-position: relative;
-top: 70px;
-bottom: 20px;
-} */
 
 
 
