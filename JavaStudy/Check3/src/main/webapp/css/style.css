@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+
+.wrapper{
+margin: auto;
+}
+.header{
+/* 	// div */
+background-color: gray;
+font-family: serif;
+}
+.copy{
+display: inline-block;
+padding: 10px;
+color: white;
+}
+/* // label */
+.date{
+padding: 10px;
+font-size: 10px;
+}
+
+.table{
+border-collapse: separate; 
+border-spacing: 5px 8px;
+}
+
+
+.td {
+    border: 1px solid #000;
+    width: 200px;
+  }
+
+.jspTest{
+/* 	// div */
+padding-top: 50px;
+padding-bottom: 50px;
+font-family:serif;
+}
+
+
+.footer{
+/* 	// div */
+background-color: gray;
+}
+/*  // label */
+.copy2{
+display: inline-block;
+padding: 10px;
+color: white;
+font-family: serif;
+}
